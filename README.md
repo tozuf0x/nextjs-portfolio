@@ -2,6 +2,9 @@
 
 [Проект доступен по ссылке](https://nextjs-portfolio-98gtp34ij-tozuf0x.vercel.app)
 
+## Главная страница
+![](https://github.com/tozuf0x/nextjs-portfolio/blob/main/public/main.gif)
+
 ## Запуск
 
 Для начала нужно запустить приложение в режием разработки, прописав в терминале:
